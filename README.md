@@ -131,3 +131,10 @@ Happy Learning.
 3. Did Lesson 9 Clustering and Lesson 10 Feature Scaling of Intro to Machine Learning Course
 4. Done  with the 5th lab and Completed The Intro to ML: Image Processing Quest
 Happy Learning
+
+**#Day23 of #60daysofudacity**
+1. Completed Week 2 Course of Intro to TensorFlow
+2. Joined the Group with @Labiba and @Shubhendu Mishra Kaggle weekly Compition from #sg_applied_dl for recognizing familiar faces
+3. Watched the kaggle compition build live video catch up of building on Titanic Datasets on kaggle
+4. i would like to encourge @Labiba @Archit @Shubhendu Mishra @Ivy @Frida @vishalrangras @EPR
+
