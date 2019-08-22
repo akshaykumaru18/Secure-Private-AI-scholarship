@@ -71,7 +71,7 @@ Happy Learning.
 
 **#Day13 of #60daysofudacity**
 1. continued the lesson **Convolutional Neural Network**. of Intro do DL using pytorch
-2. Started reading the book ***Handson Machine learning and deep learning using scikit and tensor flow***.
+2. Started reading the book ***Handson Machine learning and deep learning using scikit and tensorFlow***.
 Happy learning.
 
 **#Day14 of #60daysofudacity**
@@ -113,3 +113,14 @@ Happy Learning.
 2. Started with The Qwiklab Quest **Data science on the Google Cloud Platform**
 3. Completed 5 Labs of the quest.
 4. Reading about the **Big Picture of machine learning from Handson Machine Learning using scikit and TensorFlow** book.
+
+**#Day21 of #60daysofudacity** 
+1. Started with **3rd Course Intro to Tensor Flow of Machine learning using TensorFlow with Google Cloud Platform**
+2. Completed the **first week Module Core Tensorflow of Course and Passed the Module Quiz with 80%**
+3. Started with the Qwiklab Quest **Intro to ML: Image Processing and Completed the 4 steps out of 5**.
+   1. Cloud ML Engine
+   2. Classify Images of Clouds in the Cloud with AutoML Vision.
+   3. Detect Labels, Faces, and Landmarks in images with the Cloud Vision API
+   4. Extract, Analyse, and Translate Text From Images with the Cloud ML API'S
+
+  I encourage and endorse @Archit @vishalrangras @dhruvSharma @Nagaraj S Murthy @dhruvSharma @EPR @K.S. @jicksy @Abhishek Tandon @THIYAGARAJAN R @Noom Chanthadit
