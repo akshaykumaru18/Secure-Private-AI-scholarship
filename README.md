@@ -78,3 +78,14 @@ Happy learning.
 1. today I completed the **1st chapter of Hands on machine learning using scikit and deep learning using tensorflow**
 2. Continued with **convolutional Neural network** Lesson of Intro to DL using pytorch 
 3. **Took part of virtual meet up of study group Bangalore. with @Nagaraj S Murthy @Prabha Venkatesh @jicksy @Abhishek Tandon @lakshmi @vipin @Hari Vamsi @Suresh Kumar M**
+
+**#Day15 of #60daysofudacity**
+1. Started with **2nd chap of Hands on machine Learning using Scikitlearn** book
+2. Done few revision Labs on Qwiklab Quest **BaseLine: Ml, Big query**.
+3. Continued with **CNN lesson on Intro to DL using pytorch**
+
+**#Day16 of #60daysofudacity**
+1. practiced CNN lesson code
+2. watched **Andrew Ng Cost function  and Gradient decent lesson on Coursera**
+happy learning
+
