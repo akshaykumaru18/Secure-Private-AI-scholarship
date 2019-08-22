@@ -68,3 +68,13 @@ Happy Learning
 3. Watched some Videos On CNN and it's Advantages.
 Happy Learning.
 #udacityfacebookscholar #pytorch #deep_learning
+
+**#Day13 of #60daysofudacity**
+1. continued the lesson **Convolutional Neural Network**. of Intro do DL using pytorch
+2. Started reading the book ***Handson Machine learning and deep learning using scikit and tensor flow***.
+Happy learning.
+
+**#Day14 of #60daysofudacity**
+1. today I completed the **1st chapter of Hands on machine learning using scikit and deep learning using tensorflow**
+2. Continued with **convolutional Neural network** Lesson of Intro to DL using pytorch 
+3. **Took part of virtual meet up of study group Bangalore. with @Nagaraj S Murthy @Prabha Venkatesh @jicksy @Abhishek Tandon @lakshmi @vipin @Hari Vamsi @Suresh Kumar M**
