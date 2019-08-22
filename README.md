@@ -102,3 +102,8 @@ Happy Learning.
 3.Continued with CNN
 4. revision On **ML with Udacity Intro to machine Learning**
 #udacityfacebookscholar
+
+#Day19 of #60daysofudacity 
+1. Successfully completed my 2nd Course ***Launching to Machine Learning of Machine learning*** with Tensor flow on Google Cloud Platform Specialisation https://www.coursera.org/account/accomplishments/verify/C6S3ETKGW32S
+2. Practiced 2 Labs Of the course and Passed Them 
+3. Completed 2 Module Quizzes. 
