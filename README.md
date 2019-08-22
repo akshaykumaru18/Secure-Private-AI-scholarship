@@ -144,3 +144,6 @@ Happy Learning
  
 I would encourage @Archit @Ivy @Labiba @vishalrangras @EPR @Shubhendu Mishra @Nagaraj S Murthy @Nagaraj S Murthy @dhruvSharma @Abhishek Tandon @jicksy @Prabha Venkatesh @PRAXS
 
+**#Day25 of #60daysofudacity** 
+1. Watched and recap of the **week 2 course of Intro to TensorFlow Course**
+2.Did with labs on Qwiklab on **Data science for Google cloud platform**.Processing Data with Google Cloud Dataflow
