@@ -166,3 +166,14 @@ I would encourage @Archit @EPR @Ivy @vishalrangras @Labiba @Nagaraj S Murthy @Sh
 3. Revision Lecture of Lesson 1 of scholarship course.
 
 I would encourage @Archit @Ivy @vishalrangras @EPR @Labiba @Shubhendu Mishra @Nagaraj S Murthy @K.S. @Prabha Venkatesh @dhruvSharma @susyjam @jicksy @Abhishek Tandon @Frida @Hari Vamsi
+
+**#Day29 of #60daysofudacity** 
+1. Practiced the Machine learning 1 course from **Kaggle Learn**
+2. Revision of week 1 course of **Intro to Tensorflow** course
+3. Continued with **feature Learning course** and learning how Preprocessing the data is more beneficial and Why it's time taking task with the example Senarios.
+4. involved in discussing on Data collection for future project  with @Archit @Vebby @Aniket Thomas 
+5. Today I attended a **DevNation2019** Conference organised from *Redhat* and *RedHat Developers*.
+
+I encourage @Archit @Labiba @vishalrangras @Ivy @EPR @Shubhendu Mishra @Nagaraj S Murthy @Prabha Venkatesh @dhruvSharma @K.S. @susyjam @jicksy @Abhishek Tandon @Hari Vamsi @Vebby @Aniket Thomas @PRAXS @jithesh gopal @Frida @Sourav @Helena Barmer
+
+
