@@ -176,4 +176,12 @@ I would encourage @Archit @Ivy @vishalrangras @EPR @Labiba @Shubhendu Mishra @Na
 
 I encourage @Archit @Labiba @vishalrangras @Ivy @EPR @Shubhendu Mishra @Nagaraj S Murthy @Prabha Venkatesh @dhruvSharma @K.S. @susyjam @jicksy @Abhishek Tandon @Hari Vamsi @Vebby @Aniket Thomas @PRAXS @jithesh gopal @Frida @Sourav @Helena Barmer
 
+**#Day30 of #60daysofudacity** 
+1. Continued with the Course **Featured Engineering** and today Learnt of How and when to Preprocess the data before developing ML model.
+2. Learnt Representing Feature. and Did the Hanson Graded lab for this Module in Qwiklabs and Quiz
+3. Started the kaggle SQl Summer camp.
+4. Practice of Notebooks of **intro to Deep learning using Pytorch**. of Lesson Intro to pytorch. 
 
+Kudos to all the folks here practicing it regularly and Keeping up the Pledge. We have Completed Half of the journey of #60daysofudacity. 
+
+I encourage @Archit @Labiba @EPR @vishalrangras @Ivy @dhruvSharma @Nagaraj S Murthy @Shubhendu Mishra @Vebby @Prabha Venkatesh @K.S. @susyjam @Abhishek Tandon @Hari Vamsi @Frida @Aniket Thomas @PRAXS @jithesh gopal @Sourav @THIYAGARAJAN R @Bharati Subramanian. Keep up your amazing work and stay Udacius.
