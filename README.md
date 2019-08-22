@@ -47,3 +47,13 @@ Happy learning
 1. started with **Lesson 7: Federated Learning. and completed half part of the lesson**.
 Happy learning
 
+**#Day9 of #60daysofudacity**
+1. completed with **Federated Learning** Lesson
+2. started with **Securing Federated Learning** Lesson
+Happy learning
+
+**#Day10 of #60daysofudacity**
+1. Completed **Securing Federated Learning** 
+2. Watched the **AI startup built using Deep learning** by Siraj Raval.
+3. Watched the **Deep learning series play list from 3blue1brown** YouTube channel
+Happy learning happy weekend.
