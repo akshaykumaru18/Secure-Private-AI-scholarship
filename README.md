@@ -103,7 +103,13 @@ Happy Learning.
 4. revision On **ML with Udacity Intro to machine Learning**
 #udacityfacebookscholar
 
-#Day19 of #60daysofudacity 
-1. Successfully completed my 2nd Course ***Launching to Machine Learning of Machine learning*** with Tensor flow on Google Cloud Platform Specialisation https://www.coursera.org/account/accomplishments/verify/C6S3ETKGW32S
-2. Practiced 2 Labs Of the course and Passed Them 
+**#Day19 of #60daysofudacity**
+1. Successfully completed my 2nd Course ***Launching to Machine Learning of Machine learning*** with Tensor flow on Google Cloud Platform Specialisation https://www.coursera.org/account/accomplishments/verify/C6S3ETKGW32S .
+2. Practiced 2 Labs Of the course and Passed Them.
 3. Completed 2 Module Quizzes. 
+
+**#Day20 of #60daysofudacity**
+1. Continued with **Gradient Descent** part of Andrew Ng course.
+2. Started with The Qwiklab Quest **Data science on the Google Cloud Platform**
+3. Completed 5 Labs of the quest.
+4. Reading about the **Big Picture of machine learning from Handson Machine Learning using scikit and TensorFlow** book.
