@@ -89,3 +89,16 @@ Happy learning.
 2. watched **Andrew Ng Cost function  and Gradient decent lesson on Coursera**
 happy learning
 
+**#Day17 of #60daysofudacity**
+1. Started with The Coursera Specialisation ***Machine Learning with TensorFlow on Google Cloud Platform Specialization*** https://www.coursera.org/account/accomplishments/verify/9H2EG6CAGDRL
+2. Completed with the first course ***How Google does Machine Learning***
+3. Completed the **3 labs from above course and 3 Quizzes**
+4. Continued with 2nd Chapter of Hands on machine learning using scikit learn.
+Happy Learning.
+
+**#Day 18 of #60daysofudacity** 
+1.Started with **2nd Course of Coursera Specialisation Launching into Machine Learning**
+2.Completed first Module Quiz of course 
+3.Continued with CNN
+4. revision On **ML with Udacity Intro to machine Learning**
+#udacityfacebookscholar
