@@ -96,7 +96,7 @@ happy learning
 4. Continued with 2nd Chapter of Hands on machine learning using scikit learn.
 Happy Learning.
 
-**#Day 18 of #60daysofudacity** 
+**#Day18 of #60daysofudacity** 
 1.Started with **2nd Course of Coursera Specialisation Launching into Machine Learning**
 2.Completed first Module Quiz of course 
 3.Continued with CNN
@@ -147,3 +147,8 @@ I would encourage @Archit @Ivy @Labiba @vishalrangras @EPR @Shubhendu Mishra @Na
 **#Day25 of #60daysofudacity** 
 1. Watched and recap of the **week 2 course of Intro to TensorFlow Course**
 2.Did with labs on Qwiklab on **Data science for Google cloud platform**.Processing Data with Google Cloud Dataflow
+
+**#Day26 of #60daysofudacity** 
+1. Done with **week 3 Course of Introduction to TensorFlow course**. and done with the course labs 
+2. Done some revision on Qwiklab. **Baseline : Ml Quest**. 
+I like to encourage @Hari Vamsi @Archit @vishalrangras @EPR @Ivy @Labiba @Shubhendu Mishra @Nagaraj S Murthy @dhruvSharma @jicksy @K.S. @Prabha Venkatesh @susyjam
