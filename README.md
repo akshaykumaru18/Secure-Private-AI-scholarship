@@ -154,8 +154,15 @@ I would encourage @Archit @Ivy @Labiba @vishalrangras @EPR @Shubhendu Mishra @Na
 I like to encourage @Hari Vamsi @Archit @vishalrangras @EPR @Ivy @Labiba @Shubhendu Mishra @Nagaraj S Murthy @dhruvSharma @jicksy @K.S. @Prabha Venkatesh @susyjam
 
 **#Day27 of #60daysofudacity** 
-1. Completed the Course **Intro To TensorFlow**.
+1. Completed the Course **Intro To TensorFlow** https://www.coursera.org/account/accomplishments/verify/GYNW3JG2QL23.
 2. Done with the 5 Labs of Qwiklab Quest **Data Science on Google Cloud Platform**
 3. Browsed about the **Data Preprocessing and Read some Articles on it**. 
 
 I would encourage @Archit @EPR @Ivy @vishalrangras @Labiba @Nagaraj S Murthy @Shubhendu Mishra @dhruvSharma @jicksy @K.S. @Prabha Venkatesh @THIYAGARAJAN R @Abhishek Tandon @PRAXS @Hari Vamsi @Noom Chanthadit @Vebby @Aniket Thomas @susyjam @Bharati Subramanian @jithesh gopal
+
+**#Day28 of #60daysofudacity** 
+1. Completed the **Big query for Data analysis** and **Completed the Quest series of Data Engineering with GCP**
+2. Started with the **4th course Feature Engineering of Machine Learning using Tensorflow Specialisation**
+3. Revision Lecture of Lesson 1 of scholarship course.
+
+I would encourage @Archit @Ivy @vishalrangras @EPR @Labiba @Shubhendu Mishra @Nagaraj S Murthy @K.S. @Prabha Venkatesh @dhruvSharma @susyjam @jicksy @Abhishek Tandon @Frida @Hari Vamsi
