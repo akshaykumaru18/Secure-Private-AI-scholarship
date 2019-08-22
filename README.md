@@ -57,3 +57,14 @@ Happy learning
 2. Watched the **AI startup built using Deep learning** by Siraj Raval.
 3. Watched the **Deep learning series play list from 3blue1brown** YouTube channel
 Happy learning happy weekend.
+
+**#Day11 of #60daysofudacity**
+1. watched video lectures of  **Encrypted Deep learning** and completed the challenge course today.
+Happy Learning
+
+**#Day12 of #60daysofudacity** 
+1. Started with **Convolutional Neural Network** Lesson from Deep learning using pytorch
+2. Browsed about **wavenet and it's applications**.
+3. Watched some Videos On CNN and it's Advantages.
+Happy Learning.
+#udacityfacebookscholar #pytorch #deep_learning
