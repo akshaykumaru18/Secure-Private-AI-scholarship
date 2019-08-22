@@ -138,3 +138,9 @@ Happy Learning
 3. Watched the kaggle compition build live video catch up of building on Titanic Datasets on kaggle
 4. i would like to encourge @Labiba @Archit @Shubhendu Mishra @Ivy @Frida @vishalrangras @EPR
 
+**#Day24 of #60daysofudacity** 
+1. started with **3rd Week Course of intro To Tensorflow Course on Coursera** 
+2. Watched the Video Lectures of **MIT Courseware on Machine learning**. 
+ 
+I would encourage @Archit @Ivy @Labiba @vishalrangras @EPR @Shubhendu Mishra @Nagaraj S Murthy @Nagaraj S Murthy @dhruvSharma @Abhishek Tandon @jicksy @Prabha Venkatesh @PRAXS
+
