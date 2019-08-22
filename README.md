@@ -28,3 +28,12 @@ That's It for today. Happy learning Happy weekend
 Happy learning.
 #pytorch #udacityfacebookscholar.
 
+**#Day5 of #60daysofudacity**
+1. completed With Lesson 5 **Introducing Local and Global Privacy** 
+That's it for today. Happy learning
+
+**#Day6 of #60daysofudacity**
+1. completed **Differential privacy** for Deep learning Course.
+2. started with **CNN lesson of Introduction to DL using pytorch**.
+Happy learning
+
