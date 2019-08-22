@@ -124,3 +124,10 @@ Happy Learning.
    4. Extract, Analyse, and Translate Text From Images with the Cloud ML API'S
 
   I encourage and endorse @Archit @vishalrangras @dhruvSharma @Nagaraj S Murthy @dhruvSharma @EPR @K.S. @jicksy @Abhishek Tandon @THIYAGARAJAN R @Noom Chanthadit
+  
+**#Day22 of #60daysofudacity** 
+1. started with the **Week 2 course of Intro to TensorFlow Estimator API**
+2. Learnt to Build the ML model using the API and tried out at Lab
+3. Did Lesson 9 Clustering and Lesson 10 Feature Scaling of Intro to Machine Learning Course
+4. Done  with the 5th lab and Completed The Intro to ML: Image Processing Quest
+Happy Learning
