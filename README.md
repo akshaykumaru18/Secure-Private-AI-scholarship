@@ -37,3 +37,13 @@ That's it for today. Happy learning
 2. started with **CNN lesson of Introduction to DL using pytorch**.
 Happy learning
 
+**#Day 7 of #60daysofudacity**
+1. Revision on **Local and Global Differential Privacy**.
+2 . Revision on **Differential Privacy for Deep Learning**.
+3.Watched **"Talking Pytorch with Soumith Chintala"**
+#60daysofudacity #UdacityFacebookScholar #Pytorch
+
+**#Day8 of #60daysofudacity**
+1. started with **Lesson 7: Federated Learning. and completed half part of the lesson**.
+Happy learning
+
