@@ -355,3 +355,14 @@ I encourage
 
 I would like to encourage 
 @Sourav @Archit @Frida @Carlo David @Vebby @EPR @Labiba @Ivy @K.S. @Sankalp Dayal @Rishi S Rao @Shubhendu Mishra @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Raunak Sarada @Ishan Arora @Akshay Rajmohan @Anshu Trivedi
+
+**#Day49** of #60daysofudacity 
+1. Watched **Recurrent Neural Networks** Lesson
+2. revision of **Evaluating the privacy of a Function**
+3. Started browsing resources for project showcase challenge 
+4. watched Biomedical startup video https://lnkd.in/fTbVSsJ
+5. reading BioBERT: a pre-trained biomedical language representation model for Biomedical text mining paper https://lnkd.in/f2aH65g
+6. Followed DATA LOADING AND PROCESSING TUTORIAL on pytorch site
+
+I encourage 
+@Sourav @Frida @Archit @Carlo David @Vebby @Labiba @EPR @Sankalp Dayal @K.S. @Ivy @Rishi S Rao @THIYAGARAJAN R @Shubhendu Mishra @Ateniola Oluwatobi Victor @Akshay Rajmohan @Aniket Thomas @vishalrangras @Kapil Chandorikar @Ishan Arora @Droid @Abhishek Tandon @Raunak Sarada @Rishi S Rao @Anshu Trivedi @Ishan Arora @Ankit Vashisht @Sushil Ghimire
