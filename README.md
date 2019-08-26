@@ -413,3 +413,12 @@ I encourage
 4. Reading on AI contribution in Medical and Health Domain
 
 I encourage @Frida @Sourav @Carlo David @Sankalp Dayal @Archit @Vebby @Rishi S Rao @Labiba @K.S. @Ivy @Ateniola Oluwatobi Victor @THIYAGARAJAN R @Shubhendu Mishra @Akshay Rajmohan @Aniket Thomas @Akshay Rajmohan @Kapil Chandorikar @Raunak Sarada @Ishan Arora @Abhishek Tandon @susyjam @Droid @Anshu Trivedi @Soumya Nasipuri @happycoder354 @Sridhar Ethiraj
+
+**#Day55** of #60daysofudacity 
+1. completed week 2 of End to End Machine Learning with TensorFlow using  GCP.
+2. did handson lab on building the ML model with tf.estimator 
+3. started week 3 of course and learning how to operationalise the ML model
+4. reading blog on One Hot Encoding techniques in tensorflow 
+5. reading the blog on how to deal with categorical data and best way approaches
+
+I encourage @Frida @Sourav @Sankalp Dayal @Carlo David @Archit @Labiba @Vebby @Rishi S Rao @K.S. @Rishi S Rao @Ivy @EPR @THIYAGARAJAN R @Shubhendu Mishra @Ateniola Oluwatobi Victor @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Ishan Arora @Abhishek Tandon @Raunak Sarada @Soumya Nasipuri @Anshu Trivedi @happycoder354
