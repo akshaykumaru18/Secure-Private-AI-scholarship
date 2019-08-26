@@ -233,3 +233,11 @@ I would encourage @Archit @Labiba @vishalrangras @Ivy @EPR @Nagaraj S Murthy @Sh
 2. Continued watching maths for ML videos on YouTube 
 3. browsed books and articles regarding ML and DL
 4. Reading 2nd chap with handson of End to End ML project of Handson ML using Scikit and TF book
+
+**#Day36** #60daysofudacity 
+1. Started with **Introduction to Machine Learning Problem Framing crash course by Google**
+2. doing Machine Learning Micro-Course
+3. Started with Data Science on Google Cloud Platform : Machine Learning
+
+I encourage 
+@Archit @Labiba @Ivy @EPR @vishalrangras @Nagaraj S Murthy @Frida @Shubhendu Mishra @Vebby @Sourav @Abhishek Tandon @Prabha Venkatesh @K.S. @susyjam @THIYAGARAJAN R @Carlo David @Aniket Thomas @PRAXS @jithesh gopal @Sankalp Dayal @Rishi S Rao
