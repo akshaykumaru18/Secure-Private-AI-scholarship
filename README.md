@@ -251,3 +251,13 @@ I encourage
 
 I will encourage 
 @Archit @Labiba @Ivy @vishalrangras @EPR @Nagaraj S Murthy @Sourav @Shubhendu Mishra @Frida @Vebby @Carlo David @Abhishek Tandon @Prabha Venkatesh @K.S. @THIYAGARAJAN R @susyjam @Sankalp Dayal @Aniket Thomas @Kapil Chandorikar @Ishan Arora . Too keep up your amazing Work and Happy weekend guys.
+
+**#Day38** of #60daysofudacity 
+1. Continued with the Kaggle learn course on Machine learning
+2. recap of the 2nd lesson of scholarship challenge 
+3. reading articles on the Problem Framing for machine learning 
+4. learning mathematics for Datascience. 
+5. watching the Machine learning lectures from MIT open courseware
+
+I encourage 
+@Archit @Labiba @vishalrangras @Ivy @EPR @Nagaraj S Murthy @Frida @Shubhendu Mishra @Sourav @Carlo David @Vebby @THIYAGARAJAN R @Abhishek Tandon @K.S. @susyjam @Sankalp Dayal @Aniket Thomas @Kapil Chandorikar @Rishi S Rao @sourav kumar @Droid to keep up their amazing work going higher and higher
