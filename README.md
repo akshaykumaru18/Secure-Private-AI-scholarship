@@ -385,3 +385,14 @@ I would encourage
 
 I encourage 
 @Sourav @Frida @Carlo David @Vebby @Labiba @EPR @Sankalp Dayal @Ivy @K.S. @Rishi S Rao @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Aniket Thomas @Akshay Rajmohan @Kapil Chandorikar @Raunak Sarada @Ishan Arora @Anshu Trivedi @Soumya Nasipuri
+
+**#Day52** of #60daysofudacity 
+1. Revision of **Evaluating the Privacy of a Function , Introducing Local and Global Differential Privacy**
+2. Continued with Applied Deep learning : Building a Chatbot
+3. Training the chatbot and Got the decreasing average loss of 3.4912 in 924 iterations
+4. Reading Blogs on Pytorch
+
+I'm very happy today Managed to get the 437 CET ranking for joining B.E
+
+I encourage 
+@Frida @Sourav @Archit @Sankalp Dayal @Carlo David @Labiba @EPR @K.S. @Vebby @Ivy @Rishi S Rao @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Shubhendu Mishra @Aniket Thomas @Kapil Chandorikar @Akshay Rajmohan @Ishan Arora @Abhishek Tandon @Raunak Sarada @susyjam @Soumya Nasipuri
