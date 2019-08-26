@@ -219,3 +219,11 @@ I encourage To Folks to not Quit instead Do some Awsome Work
 
 I would like to encourage 
 @Archit @vishalrangras @Labiba @Ivy @EPR @Vebby @Nagaraj S Murthy @Shubhendu Mishra @Frida @dhruvSharma @Prabha Venkatesh @K.S. @Abhishek Tandon @THIYAGARAJAN R @susyjam @Aniket Thomas @Sourav @Carlo David @jicksy @jithesh gopal @Helena Barmer @Anna Scott @Droid @Ishan Arora
+
+**#Day34** of #60daysofudacity 
+1. Started with the **MLCC course by google**
+2. Revision on the **Machine learning concepts** of Udacity course.
+3. Did Kaggle Summer camp and learning Big query. 
+4. Reading article on gradient Descent 
+
+I would encourage @Archit @Labiba @vishalrangras @Ivy @EPR @Nagaraj S Murthy @Shubhendu Mishra @Vebby @Frida @dhruvSharma @susyjam @Prabha Venkatesh @K.S. @Abhishek Tandon @THIYAGARAJAN R @Sourav @Aniket Thomas @jicksy @Carlo David @PRAXS @Kapil Chandorikar
