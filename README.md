@@ -422,3 +422,12 @@ I encourage @Frida @Sourav @Carlo David @Sankalp Dayal @Archit @Vebby @Rishi S R
 5. reading the blog on how to deal with categorical data and best way approaches
 
 I encourage @Frida @Sourav @Sankalp Dayal @Carlo David @Archit @Labiba @Vebby @Rishi S Rao @K.S. @Rishi S Rao @Ivy @EPR @THIYAGARAJAN R @Shubhendu Mishra @Ateniola Oluwatobi Victor @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Ishan Arora @Abhishek Tandon @Raunak Sarada @Soumya Nasipuri @Anshu Trivedi @happycoder354
+
+**#Day56** of #60daysofudacity 
+1. revision of Federated Learning 
+2. Watched Lecture of Recurrent Neural Network of MIT course 
+3. reading about LSTM
+4. Watched Google I/O Session on Federated Learning 
+
+I encourage 
+@Frida @Sourav @Carlo David @Archit @Sankalp Dayal @Rishi S Rao @Labiba @Vebby @K.S. @Ivy @K.S. @THIYAGARAJAN R @EPR @Ateniola Oluwatobi Victor @Akshay Rajmohan @Shubhendu Mishra @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Raunak Sarada @Abhishek Tandon @Ishan Arora @susyjam @Soumya Nasipuri @Droid @Sumanyu Rosha @Alexander Villasoto @Anshu Trivedi @Ankit Vashisht
