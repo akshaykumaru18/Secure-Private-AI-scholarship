@@ -464,8 +464,9 @@ I encourage @Sourav @Frida @Carlo David @Archit @K.S. @Sankalp Dayal @Vebby @Ris
 5. Learnt Training Design Decisions, Serving Design decisions, Ingesting data for cloud - Based Analytics & ML , Migration Methods
 6 started with Week 2 : Designing Adaptable ML Systems,  Mitigating Training - Serving Skew Through Design
 
-###Whoa finally Done with #60daysofudacity 
+### Whoa finally Done with #60daysofudacity 
 A huge shout out to all the amazing scholars for your motivation and encouraging 
 
 I would like to encourage 
 @Sourav @Frida @Carlo David @K.S. @Archit @Sankalp Dayal @Rishi S Rao @Vebby @Labiba @Ivy @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Raunak Sarada @susyjam @Ishan Arora @Soumya Nasipuri @Anshu Trivedi @Droid @happycoder354
+
