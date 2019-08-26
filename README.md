@@ -366,3 +366,13 @@ I would like to encourage
 
 I encourage 
 @Sourav @Frida @Archit @Carlo David @Vebby @Labiba @EPR @Sankalp Dayal @K.S. @Ivy @Rishi S Rao @THIYAGARAJAN R @Shubhendu Mishra @Ateniola Oluwatobi Victor @Akshay Rajmohan @Aniket Thomas @vishalrangras @Kapil Chandorikar @Ishan Arora @Droid @Abhishek Tandon @Raunak Sarada @Rishi S Rao @Anshu Trivedi @Ishan Arora @Ankit Vashisht @Sushil Ghimire
+
+**#Day50 of #60daysofudacity** 
+1. I'm doing handson exercise of **building French to English chatbot using pytorch.** 
+2. Started with **Building Chatbot using Pytorch course on udemy**
+3. Reading on **Recurrent Neural Network**
+4. Reading Sequence to Sequence Learning with Neural Networks
+5. reading Learning Phrase Representations using RNN Encoder- Decoder For Statistical Machine Translation 
+
+I would encourage 
+@Sourav @Frida @Archit @Carlo David @Vebby @Sankalp Dayal @Labiba @EPR @K.S. @Ivy @Rishi S Rao @Shubhendu Mishra @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Ishan Arora @Raunak Sarada @Droid @Abhishek Tandon @Anshu Trivedi @Sushil Ghimire @happycoder354
