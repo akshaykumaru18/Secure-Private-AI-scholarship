@@ -261,3 +261,12 @@ I will encourage
 
 I encourage 
 @Archit @Labiba @vishalrangras @Ivy @EPR @Nagaraj S Murthy @Frida @Shubhendu Mishra @Sourav @Carlo David @Vebby @THIYAGARAJAN R @Abhishek Tandon @K.S. @susyjam @Sankalp Dayal @Aniket Thomas @Kapil Chandorikar @Rishi S Rao @sourav kumar @Droid to keep up their amazing work going higher and higher
+
+**#Day39** of #60daysofudacity 
+1. Attending the virtual meet up on **Brief Introduction on Differential Privacy and PATE ANALYSIS** with @Ateniola Oluwatobi Victor @Archit @Raunak Sarada @Ayush Yadav @Jess @Gogulaanand R @Alexander Villasoto ,erisong, @Seeratpal K. Jaura @Sourav @Nishant Bharat @Ivy @Jaiki Yadav @Suparna S Nair @Jeremiah Kamama 
+2. registered and started preparing for Aws deep racer scholarship 
+3. kaggle learn course on ML on house price prediction.
+4. Learning maths for Machine learning from * 3blue1brown from YouTube 
+
+I would like to encourage 
+@Labiba @vishalrangras @Nagaraj S Murthy @EPR @EPR @Shubhendu Mishra @Frida @Carlo David @Vebby @Abhishek Tandon @THIYAGARAJAN R @K.S. @susyjam @Prabha Venkatesh @Sankalp Dayal @Kapil Chandorikar @Aniket Thomas @jicksy @PRAXS @Rishi S Rao @Droid @Akshay Rajmohan @Archit @Ateniola Oluwatobi Victor @Mushrifah Hasan @Seeratpal K. Jaura @Jess @Sourav @Ivy @Raunak Sarada @Alexander Villasoto @Ayush Yadav @Gogulaanand R @Ebinbin Ajagun @cibaca @erinSnPAI @Nishant Bharat @nabhanpv
