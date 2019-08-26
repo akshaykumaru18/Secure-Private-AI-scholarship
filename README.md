@@ -438,3 +438,12 @@ I encourage
 3. browsed about Cloud ML Engine
 
 I encourage @Frida @Sourav @Carlo David @Archit @Sankalp Dayal @K.S. @Labiba @Rishi S Rao @Vebby @Ivy @THIYAGARAJAN R @Akshay Rajmohan @EPR @Ateniola Oluwatobi Victor @Shubhendu Mishra @Aniket Thomas @Kapil Chandorikar @Raunak Sarada @Abhishek Tandon @susyjam @Ishan Arora @Anshu Trivedi @Soumya Nasipuri @Ankit Vashisht
+
+**#Day58** of #60daysofudacity 
+1. Machine learning practice using tf.estimator
+2. revisited the Feature Engineering course 
+3. Reading about the ML Pipelines
+4. Continued with week 3 of End to End  Machine Learning course
+
+I encourage 
+@Sourav @Frida @Sankalp Dayal @Carlo David @Archit @Vebby @K.S. @Labiba @Rishi S Rao @Ivy @THIYAGARAJAN R @EPR @Akshay Rajmohan @Ateniola Oluwatobi Victor @Aniket Thomas @Kapil Chandorikar @Raunak Sarada @susyjam @Abhishek Tandon @Ishan Arora @Soumya Nasipuri @Soumya Nasipuri
