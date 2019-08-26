@@ -270,3 +270,12 @@ I encourage
 
 I would like to encourage 
 @Labiba @vishalrangras @Nagaraj S Murthy @EPR @EPR @Shubhendu Mishra @Frida @Carlo David @Vebby @Abhishek Tandon @THIYAGARAJAN R @K.S. @susyjam @Prabha Venkatesh @Sankalp Dayal @Kapil Chandorikar @Aniket Thomas @jicksy @PRAXS @Rishi S Rao @Droid @Akshay Rajmohan @Archit @Ateniola Oluwatobi Victor @Mushrifah Hasan @Seeratpal K. Jaura @Jess @Sourav @Ivy @Raunak Sarada @Alexander Villasoto @Ayush Yadav @Gogulaanand R @Ebinbin Ajagun @cibaca @erinSnPAI @Nishant Bharat @nabhanpv
+
+**#Day40** of #60daysofudacity 
+1. Completed the Machine learning 1 course of Kaggle learn. 
+2. made my first Kaggle submission 
+3. Reading a article on **PATE analysis** 
+4. going through the notes of SPAIC course
+5. started discussing on the Showcase project challenge with @Archit @Vebby @Aniket Thomas 
+
+I encourage @Archit @EPR @Ivy @Labiba @vishalrangras @Sourav @Frida @Shubhendu Mishra @Carlo David @K.S. @THIYAGARAJAN R @susyjam @Sankalp Dayal @Rishi S Rao @Kapil Chandorikar @Ateniola Oluwatobi Victor  @Droid @Ishan Arora
