@@ -207,3 +207,15 @@ Happy Learning and I would encourage and Motivate with the Quote : Hey you. Yess
 STAY HUNGRY STAY FOOLISH
 I encourage To Folks to not Quit instead Do some Awsome Work 
 @Archit @Labiba @vishalrangras @Ivy @EPR @Nagaraj S Murthy @Vebby @Shubhendu Mishra @Frida @Prabha Venkatesh @K.S. @THIYAGARAJAN R @Abhishek Tandon @susyjam @Hari Vamsi @Aniket Thomas @Sourav @jicksy @jithesh gopal @Bharati Subramanian @PRAXS @Carlo David @Kapil Chandorikar @Sankalp Dayal @Droid @Ravikant Singh
+
+**#Day33** of #60daysofudacity
+1. Continued with week2 of **Art and Science of Machine Learning**.
+2. Learnt **Logistic Regression. Regularisation for Sparsity. Importance of Regularisation.** **Common Failure nodes for Gradient Descent and Solutions**. 
+3. Learnt about **Multi-Class Neural Networks**.
+4. Week-3 Learnt in depth insights of Embeddings , Transfer learning of Embeddings from Similar ML models and about Recommendations. 
+5. Custom Estimators and How to Implement it using TensorFlow. 
+6. Intro to kerras and how TF can be used as a Backend 
+7. Finally I completed my Specialisation on **Machine Learning using TensorFlow with Google Cloud Platform**
+
+I would like to encourage 
+@Archit @vishalrangras @Labiba @Ivy @EPR @Vebby @Nagaraj S Murthy @Shubhendu Mishra @Frida @dhruvSharma @Prabha Venkatesh @K.S. @Abhishek Tandon @THIYAGARAJAN R @susyjam @Aniket Thomas @Sourav @Carlo David @jicksy @jithesh gopal @Helena Barmer @Anna Scott @Droid @Ishan Arora
