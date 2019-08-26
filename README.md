@@ -376,3 +376,12 @@ I encourage
 
 I would encourage 
 @Sourav @Frida @Archit @Carlo David @Vebby @Sankalp Dayal @Labiba @EPR @K.S. @Ivy @Rishi S Rao @Shubhendu Mishra @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Ishan Arora @Raunak Sarada @Droid @Abhishek Tandon @Anshu Trivedi @Sushil Ghimire @happycoder354
+
+**#Day51** of #60daysofudacity 
+1. Continued with **Applied Deep Learning: Build a Chatbot course**
+2. Reading blogs from pytorch.org
+3. Revision on **Style Transfer and Recurrent Neural Networks**
+4.  Continued Reading Sequence to Sequence Learning with Neural Networks , Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation 
+
+I encourage 
+@Sourav @Frida @Carlo David @Vebby @Labiba @EPR @Sankalp Dayal @Ivy @K.S. @Rishi S Rao @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Aniket Thomas @Akshay Rajmohan @Kapil Chandorikar @Raunak Sarada @Ishan Arora @Anshu Trivedi @Soumya Nasipuri
