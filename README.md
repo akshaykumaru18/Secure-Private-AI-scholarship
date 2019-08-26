@@ -454,3 +454,18 @@ I encourage
 3. Watched the podcast on Siraj Raval with 3Blue1brown 
 
 I encourage @Sourav @Frida @Carlo David @Archit @K.S. @Sankalp Dayal @Vebby @Rishi S Rao @Labiba @Ivy @EPR @THIYAGARAJAN R @Akshay Rajmohan @Akshay Rajmohan @Ateniola Oluwatobi Victor @Aniket Thomas @Raunak Sarada @Kapil Chandorikar @susyjam @Abhishek Tandon @Ishan Arora @Soumya Nasipuri @Anshu Trivedi @happycoder354
+
+
+**#Day60** of #60daysofudacity
+1. Completed End to End Machine Learning using Tensorflow https://lnkd.in/fMKJyuT
+2. started with Production Machine Learning Systems course 
+3. learnt Data Ingestion, Data analysis and validation,  Data Transformation, Model Evaluation , Serving etc.
+4. Learnt Orchestration in GCP
+5. Learnt Training Design Decisions, Serving Design decisions, Ingesting data for cloud - Based Analytics & ML , Migration Methods
+6 started with Week 2 : Designing Adaptable ML Systems,  Mitigating Training - Serving Skew Through Design
+
+###Whoa finally Done with #60daysofudacity 
+A huge shout out to all the amazing scholars for your motivation and encouraging 
+
+I would like to encourage 
+@Sourav @Frida @Carlo David @K.S. @Archit @Sankalp Dayal @Rishi S Rao @Vebby @Labiba @Ivy @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Raunak Sarada @susyjam @Ishan Arora @Soumya Nasipuri @Anshu Trivedi @Droid @happycoder354
