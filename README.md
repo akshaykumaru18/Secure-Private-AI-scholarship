@@ -227,3 +227,9 @@ I would like to encourage
 4. Reading article on gradient Descent 
 
 I would encourage @Archit @Labiba @vishalrangras @Ivy @EPR @Nagaraj S Murthy @Shubhendu Mishra @Vebby @Frida @dhruvSharma @susyjam @Prabha Venkatesh @K.S. @Abhishek Tandon @THIYAGARAJAN R @Sourav @Aniket Thomas @jicksy @Carlo David @PRAXS @Kapil Chandorikar
+
+**#Day35** of #60daysofudacity 
+1. 2nd round Revision of Scholarship. started
+2. Continued watching maths for ML videos on YouTube 
+3. browsed books and articles regarding ML and DL
+4. Reading 2nd chap with handson of End to End ML project of Handson ML using Scikit and TF book
