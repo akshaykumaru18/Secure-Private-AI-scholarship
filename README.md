@@ -1,5 +1,5 @@
 # Secure-Private-AI-scholarship
-### *My #60daysofudacity of **Secure Private AI Scholarship** from Facebook AI* 
+## *My #60daysofudacity of **Secure Private AI Scholarship** from Facebook AI* 
 
 **#Day1 of #60daysofudacity**
    1. Took the pledge today(Very much exited to start this journey)
@@ -297,4 +297,11 @@ I encourage @Archit @EPR @Sourav @Ivy @Labiba @Sourav @Frida @Shubhendu Mishra @
 6. continued with Maths for Machine Learning.
 
 i would like to encourage @Archit @Ivy @EPR @Labiba @Sourav @Shubhendu Mishra @Frida @K.S. @Carlo David @Vebby @THIYAGARAJAN R @Sankalp Dayal @susyjam @Aniket Thomas @Kapil Chandorikar @Ateniola Oluwatobi Victor @Ishan Arora @Droid @Rishi S Rao @THIYAGARAJAN R
-1
+
+**#Day43** of #60daysofudacity 
+1. learnt More about Categorical data. and Pipelines @ Kaggle Course
+2. resubmission to housing price prediction competition. and reached 2202 rank. 
+3. Watched Andrew ng videos on Cost function and Gradient dissent.
+4. 3blue1brown deep learning play list.
+
+I encourage @Archit @Sourav @Frida @Labiba @EPR @Ivy @Carlo David @Sankalp Dayal @THIYAGARAJAN R @K.S. @Vebby @Shubhendu Mishra @vishalrangras @susyjam @Rishi S Rao @Aniket Thomas @Kapil Chandorikar @Ateniola Oluwatobi Victor @Akshay Rajmohan @Ishan Arora @Droid @sourav kumar
