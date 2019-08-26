@@ -335,3 +335,12 @@ I would encourage @Anshu Trivedi @Ankit Vashisht @Sourav @Frida @Carlo David @Ar
 
 I would encourage 
 @Archit @Frida @Sourav @Labiba @Carlo David @Ivy @EPR @Vebby @Sankalp Dayal @K.S. @THIYAGARAJAN R @Shubhendu Mishra @Rishi S Rao @Ateniola Oluwatobi Victor @Aniket Thomas @Kapil Chandorikar @vishalrangras @Akshay Rajmohan @Abhishek Tandon @Raunak Sarada @Droid @Ishan Arora @Anshu Trivedi @Helena Barmer
+
+**#Day47** of #60daysofudacity 
+1. Learnt the **Style Transfer on image using vgg19 model** 
+2. Watched the Convolution neural network lecturer and it's big picture with the case studies of MIT https://lnkd.in/fHBhdPJ
+3. Reading **Image Style Transfer Using Convolutional Neural Networks by (Leon A Gatys, Alexander S. Ecker, Matthias Bethge )**
+4. watched How to make money using Machine learning by Siraj raval
+
+I encourage 
+@Archit @Sourav @Frida @Carlo David @Labiba @Ivy @EPR @Sankalp Dayal @Vebby @K.S. @THIYAGARAJAN R @Shubhendu Mishra @Rishi S Rao @Ateniola Oluwatobi Victor @Anshu Trivedi @Aniket Thomas @Ankit Vashisht @Kapil Chandorikar @Akshay Rajmohan @Abhishek Tandon @Raunak Sarada @Ishan Arora @Droid @Alexander Villasoto
