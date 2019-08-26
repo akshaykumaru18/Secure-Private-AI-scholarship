@@ -279,3 +279,11 @@ I would like to encourage
 5. started discussing on the Showcase project challenge with @Archit @Vebby @Aniket Thomas 
 
 I encourage @Archit @EPR @Ivy @Labiba @vishalrangras @Sourav @Frida @Shubhendu Mishra @Carlo David @K.S. @THIYAGARAJAN R @susyjam @Sankalp Dayal @Rishi S Rao @Kapil Chandorikar @Ateniola Oluwatobi Victor  @Droid @Ishan Arora
+
+**#Day41** of #60daysofudacity 
+1. started with the Machine Learning Intermediate Course on kaggle learn
+2. Resubmitted kernel with less MAE for Housing price Competition  with **20931.87236 score and jumped to 4233 position**.
+3. continued with the Maths for machine learning from 3blue1brown 
+4. continued MIT opencourseware lecturers on Intro to Machine learning 
+
+I encourage @Archit @EPR @Sourav @Ivy @Labiba @Sourav @Frida @Shubhendu Mishra @Carlo David @Vebby @K.S. @Sankalp Dayal @Rishi S Rao @Kapil Chandorikar @Akshay Rajmohan @Ateniola Oluwatobi Victor
