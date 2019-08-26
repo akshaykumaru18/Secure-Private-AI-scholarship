@@ -287,3 +287,14 @@ I encourage @Archit @EPR @Ivy @Labiba @vishalrangras @Sourav @Frida @Shubhendu M
 4. continued MIT opencourseware lecturers on Intro to Machine learning 
 
 I encourage @Archit @EPR @Sourav @Ivy @Labiba @Sourav @Frida @Shubhendu Mishra @Carlo David @Vebby @K.S. @Sankalp Dayal @Rishi S Rao @Kapil Chandorikar @Akshay Rajmohan @Ateniola Oluwatobi Victor
+
+**#Day42** of #60daysofudacity
+1. following the kaggle learn mini course on ML Intermediate and learning how to handle the missing data with possible way
+2. resubmitted kernel to Housing price prediction and tried to reach at 3258 position.
+3. reading blogs on RandomForest Algorithm
+4. reading the sklearn documentation on RandomForest algorithms
+5. started planning to start with project showcase challenge
+6. continued with Maths for Machine Learning.
+
+i would like to encourage @Archit @Ivy @EPR @Labiba @Sourav @Shubhendu Mishra @Frida @K.S. @Carlo David @Vebby @THIYAGARAJAN R @Sankalp Dayal @susyjam @Aniket Thomas @Kapil Chandorikar @Ateniola Oluwatobi Victor @Ishan Arora @Droid @Rishi S Rao @THIYAGARAJAN R
+1
