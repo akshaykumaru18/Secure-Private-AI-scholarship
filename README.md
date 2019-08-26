@@ -185,3 +185,13 @@ I encourage @Archit @Labiba @vishalrangras @Ivy @EPR @Shubhendu Mishra @Nagaraj 
 Kudos to all the folks here practicing it regularly and Keeping up the Pledge. We have Completed Half of the journey of #60daysofudacity. 
 
 I encourage @Archit @Labiba @EPR @vishalrangras @Ivy @dhruvSharma @Nagaraj S Murthy @Shubhendu Mishra @Vebby @Prabha Venkatesh @K.S. @susyjam @Abhishek Tandon @Hari Vamsi @Frida @Aniket Thomas @PRAXS @jithesh gopal @Sourav @THIYAGARAJAN R @Bharati Subramanian. Keep up your amazing work and stay Udacius.
+
+**#Day31 of #60daysofudacity**
+1. Learnt How to **Preprocess The Data using Data flow, Apache Beam, feature_Columns, Cloud DataPrep  and ParDo** on Taxi Big query dataset in Feature Learning Course 
+2. started with **Feature Crossing** and Learnt how it is beneficial for Machine Learning with Massive datasets.
+3. visualised the how the Feature crosses can be beneficial using TensorFlow Playground
+4. Implementation of **Feature Crosses using TensorFlow**.
+5. Continued with the Kaggle kernel notebooks of SQL Summer Camp and Learnt to query basic SQL Queries On bigQuery Datasets.
+
+Happy Learning and I would encourage and Motivate with the Quote : Hey you. Yess You.... You know you are already doing great.... now it's Time to Do Something Amazing and Crazy Enough..! :D Go ahead Happy weekend 
+@Archit  @Ivy @Labiba @EPR @vishalrangras @Nagaraj S Murthy @dhruvSharma @Vebby @Shubhendu Mishra @Prabha Venkatesh @K.S. @susyjam @Abhishek Tandon @Aniket Thomas @Frida @Sourav @Hari Vamsi @THIYAGARAJAN R @jithesh gopal @Bharati Subramanian @Carlo David @Kapil Chandorikar @Krishna Chari @Akshay Rajmohan @AISHWARYA NEVREKAR
