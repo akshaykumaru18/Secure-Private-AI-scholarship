@@ -305,3 +305,12 @@ i would like to encourage @Archit @Ivy @EPR @Labiba @Sourav @Shubhendu Mishra @F
 4. 3blue1brown deep learning play list.
 
 I encourage @Archit @Sourav @Frida @Labiba @EPR @Ivy @Carlo David @Sankalp Dayal @THIYAGARAJAN R @K.S. @Vebby @Shubhendu Mishra @vishalrangras @susyjam @Rishi S Rao @Aniket Thomas @Kapil Chandorikar @Ateniola Oluwatobi Victor @Akshay Rajmohan @Ishan Arora @Droid @sourav kumar
+
+**#Day44** of #60daysofudacity 
+1. continued learning Machine learning and completed the kaggle course.
+2. Started Convolutional neural network lesson from intro to DL using pytorch 
+3. watched video on Transfer Learning by Siraj raval
+4. Recap on CNN by reading articles on medium 
+
+I would like to encourage 
+@Sourav @Frida @Carlo David @Labiba @EPR @Ivy @K.S. @THIYAGARAJAN R @Sankalp Dayal @Vebby @Shubhendu Mishra @Rishi S Rao @Ateniola Oluwatobi Victor @Kapil Chandorikar @Akshay Rajmohan @Ishan Arora @Sumanyu Rosha
