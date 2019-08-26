@@ -195,3 +195,15 @@ I encourage @Archit @Labiba @EPR @vishalrangras @Ivy @dhruvSharma @Nagaraj S Mur
 
 Happy Learning and I would encourage and Motivate with the Quote : Hey you. Yess You.... You know you are already doing great.... now it's Time to Do Something Amazing and Crazy Enough..! :D Go ahead Happy weekend 
 @Archit  @Ivy @Labiba @EPR @vishalrangras @Nagaraj S Murthy @dhruvSharma @Vebby @Shubhendu Mishra @Prabha Venkatesh @K.S. @susyjam @Abhishek Tandon @Aniket Thomas @Frida @Sourav @Hari Vamsi @THIYAGARAJAN R @jithesh gopal @Bharati Subramanian @Carlo David @Kapil Chandorikar @Krishna Chari @Akshay Rajmohan @AISHWARYA NEVREKAR
+
+**#Day32 of #60daysofudacity**
+1. Learnt Introduction to TensorFlow Transform module of Feature engineering
+2. understood the Phases of TensorFlow Transform. 
+3. Completed the handson Labs and Module Quizzes of Feature Engineering  and completed the Course Today
+4. Started with the **Art and Science of Machine Learning** Course. And Completed the Week 1 Course.
+5. Learnt The **Regularisation and types of Regularisation(L1,L2) and Learning Rate , Batch Size and optimisation. and Hyper Parameter Tunning**.
+6. Continued with the 2nd Chapter of the Book and tried some Handson code Snippets on Writing and visualising the Datasets using python, matplotlib and pandas. 
+
+STAY HUNGRY STAY FOOLISH
+I encourage To Folks to not Quit instead Do some Awsome Work 
+@Archit @Labiba @vishalrangras @Ivy @EPR @Nagaraj S Murthy @Vebby @Shubhendu Mishra @Frida @Prabha Venkatesh @K.S. @THIYAGARAJAN R @Abhishek Tandon @susyjam @Hari Vamsi @Aniket Thomas @Sourav @jicksy @jithesh gopal @Bharati Subramanian @PRAXS @Carlo David @Kapil Chandorikar @Sankalp Dayal @Droid @Ravikant Singh
