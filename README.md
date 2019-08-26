@@ -322,3 +322,16 @@ I would like to encourage
 4. watched How to keep focused and improving by siraj raval. and the steps which uses AI to get the In detail sleep monitoring with the sleep stages, and AI on track of fitness and some more and many Blown my mind. 
 
 I would encourage @Anshu Trivedi @Ankit Vashisht @Sourav @Frida @Carlo David @Archit @Labiba @Sankalp Dayal @EPR @Ivy @K.S. @THIYAGARAJAN R @Vebby @Shubhendu Mishra @Rishi S Rao @Ateniola Oluwatobi Victor @Akshay Rajmohan @Kapil Chandorikar @Aniket Thomas @Raunak Sarada @Alexander Villasoto @Droid @Abhishek Tandon @Ahmed Thabit @AISHWARYA NEVREKAR @Agata [OR, USA] @Akshay Pal @Bharati Subramanian @Helena Barmer @Noom Chanthadit @Daniel @Ellyana Linden
+
+**#Day46** of #60daysofudacity 
+1. Completed with **Convolutional Neural network** lesson
+2. Reading about the **OpenCV** 
+3. Did handson code on CNN using Pytorch 
+4. learnt Filters , High And low Frequency,  High Pass Filters , Sharpening and enhancing High frequency  part of image, Edge handling.
+5. Learnt Sobel Edge Detection and it's use with python 
+6. Learnt Convolutional Layers in Pytorch with exercise
+7. learnt Sequential Models , Image Augumentation. 
+8. CIFAR classification
+
+I would encourage 
+@Archit @Frida @Sourav @Labiba @Carlo David @Ivy @EPR @Vebby @Sankalp Dayal @K.S. @THIYAGARAJAN R @Shubhendu Mishra @Rishi S Rao @Ateniola Oluwatobi Victor @Aniket Thomas @Kapil Chandorikar @vishalrangras @Akshay Rajmohan @Abhishek Tandon @Raunak Sarada @Droid @Ishan Arora @Anshu Trivedi @Helena Barmer
