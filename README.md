@@ -431,3 +431,10 @@ I encourage @Frida @Sourav @Sankalp Dayal @Carlo David @Archit @Labiba @Vebby @R
 
 I encourage 
 @Frida @Sourav @Carlo David @Archit @Sankalp Dayal @Rishi S Rao @Labiba @Vebby @K.S. @Ivy @K.S. @THIYAGARAJAN R @EPR @Ateniola Oluwatobi Victor @Akshay Rajmohan @Shubhendu Mishra @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Raunak Sarada @Abhishek Tandon @Ishan Arora @susyjam @Soumya Nasipuri @Droid @Sumanyu Rosha @Alexander Villasoto @Anshu Trivedi @Ankit Vashisht
+
+**#Day57** of #60daysofudacity 
+1. continued with week 3 of End to End Machine learning
+2. Handson lab on Deploying model by preprocessing data using TensorFlow*
+3. browsed about Cloud ML Engine
+
+I encourage @Frida @Sourav @Carlo David @Archit @Sankalp Dayal @K.S. @Labiba @Rishi S Rao @Vebby @Ivy @THIYAGARAJAN R @Akshay Rajmohan @EPR @Ateniola Oluwatobi Victor @Shubhendu Mishra @Aniket Thomas @Kapil Chandorikar @Raunak Sarada @Abhishek Tandon @susyjam @Ishan Arora @Anshu Trivedi @Soumya Nasipuri @Ankit Vashisht
