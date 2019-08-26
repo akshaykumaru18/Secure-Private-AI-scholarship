@@ -241,3 +241,13 @@ I would encourage @Archit @Labiba @vishalrangras @Ivy @EPR @Nagaraj S Murthy @Sh
 
 I encourage 
 @Archit @Labiba @Ivy @EPR @vishalrangras @Nagaraj S Murthy @Frida @Shubhendu Mishra @Vebby @Sourav @Abhishek Tandon @Prabha Venkatesh @K.S. @susyjam @THIYAGARAJAN R @Carlo David @Aniket Thomas @PRAXS @jithesh gopal @Sankalp Dayal @Rishi S Rao
+
+**#Day37** of #60daysofudacity 
+1. I had been to an amazing Conference DevConf19 at bangalore. A day filled with Lots of AI talks and workshops..
+2. attended **Mathematical Foundation for neural network talk**
+3.  attended **Personalised learning with signal maps and ML**
+4. attended **personalised Virtual assistants and voice assistants using NLP in enterprise level**
+5. Continuing with **MLCC course and Data Framing course from Google and practiced with example code snippets** 
+
+I will encourage 
+@Archit @Labiba @Ivy @vishalrangras @EPR @Nagaraj S Murthy @Sourav @Shubhendu Mishra @Frida @Vebby @Carlo David @Abhishek Tandon @Prabha Venkatesh @K.S. @THIYAGARAJAN R @susyjam @Sankalp Dayal @Aniket Thomas @Kapil Chandorikar @Ishan Arora . Too keep up your amazing Work and Happy weekend guys.
