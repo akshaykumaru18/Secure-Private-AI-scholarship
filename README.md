@@ -447,3 +447,10 @@ I encourage @Frida @Sourav @Carlo David @Archit @Sankalp Dayal @K.S. @Labiba @Ri
 
 I encourage 
 @Sourav @Frida @Sankalp Dayal @Carlo David @Archit @Vebby @K.S. @Labiba @Rishi S Rao @Ivy @THIYAGARAJAN R @EPR @Akshay Rajmohan @Ateniola Oluwatobi Victor @Aniket Thomas @Kapil Chandorikar @Raunak Sarada @susyjam @Abhishek Tandon @Ishan Arora @Soumya Nasipuri @Soumya Nasipuri
+
+**#Day59** of #60daysofudacity 
+1. revisited the course Art and Science of Machine Learning. 
+2. did some Qwiklab labs from Data Engineering Quest.
+3. Watched the podcast on Siraj Raval with 3Blue1brown 
+
+I encourage @Sourav @Frida @Carlo David @Archit @K.S. @Sankalp Dayal @Vebby @Rishi S Rao @Labiba @Ivy @EPR @THIYAGARAJAN R @Akshay Rajmohan @Akshay Rajmohan @Ateniola Oluwatobi Victor @Aniket Thomas @Raunak Sarada @Kapil Chandorikar @susyjam @Abhishek Tandon @Ishan Arora @Soumya Nasipuri @Anshu Trivedi @happycoder354
