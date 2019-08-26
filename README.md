@@ -396,3 +396,20 @@ I'm very happy today Managed to get the 437 CET ranking for joining B.E
 
 I encourage 
 @Frida @Sourav @Archit @Sankalp Dayal @Carlo David @Labiba @EPR @K.S. @Vebby @Ivy @Rishi S Rao @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Shubhendu Mishra @Aniket Thomas @Kapil Chandorikar @Akshay Rajmohan @Ishan Arora @Abhishek Tandon @Raunak Sarada @susyjam @Soumya Nasipuri
+
+**#Day53** of #60daysofudacity 
+1. started with new specialisation course Advance Machine Learning with Tensorflow using GCP
+2. started with Week 0 course of End to End Machine learning with Tensorflow
+3. Watched Siraj raval video on Natural language processing
+4. Reading articles on Recurrent Neural Networks
+
+I encourage 
+@Frida @Sourav @Sankalp Dayal @Archit @Carlo David @Labiba @EPR @K.S. @Vebby @Ivy @Rishi S Rao @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Shubhendu Mishra @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Ishan Arora @Abhishek Tandon @Raunak Sarada @Droid @susyjam @Anshu Trivedi @Soumya Nasipuri @happycoder354
+
+**#Day54 of #60daysofudacity** 
+1. Done with week 1 **End to End Machine Learning with TensorFlow on GCP with handson lab by exploring the dataset** 
+2. Started week 2 **Creating a Dataset of End to End Machine Learning with TensorFlow on GCP**
+3. Recap of Building Model using Tensor Flow and it's Pros and cons
+4. Reading on AI contribution in Medical and Health Domain
+
+I encourage @Frida @Sourav @Carlo David @Sankalp Dayal @Archit @Vebby @Rishi S Rao @Labiba @K.S. @Ivy @Ateniola Oluwatobi Victor @THIYAGARAJAN R @Shubhendu Mishra @Akshay Rajmohan @Aniket Thomas @Akshay Rajmohan @Kapil Chandorikar @Raunak Sarada @Ishan Arora @Abhishek Tandon @susyjam @Droid @Anshu Trivedi @Soumya Nasipuri @happycoder354 @Sridhar Ethiraj
