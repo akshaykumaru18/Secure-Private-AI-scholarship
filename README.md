@@ -344,3 +344,14 @@ I would encourage
 
 I encourage 
 @Archit @Sourav @Frida @Carlo David @Labiba @Ivy @EPR @Sankalp Dayal @Vebby @K.S. @THIYAGARAJAN R @Shubhendu Mishra @Rishi S Rao @Ateniola Oluwatobi Victor @Anshu Trivedi @Aniket Thomas @Ankit Vashisht @Kapil Chandorikar @Akshay Rajmohan @Abhishek Tandon @Raunak Sarada @Ishan Arora @Droid @Alexander Villasoto
+
+**#Day48** of #60daysofudacity 
+1. Playing with **Style Transfer vgg model**
+2. I just loved the PyTorch Tutorials  reading and following the Tutorials. completed **Deep learning with Pytorch: A 60 Minute Biltz** 
+3. Started reading **Data Loading And Processing Tutorial**
+4. Done by learning to develop a model from scratch CIFAR10 datasets and got the model accuracy of 62%
+5. Planning for the Project showcase challenge.
+6. I finished reading a Medium article on Kannada MNIST DATASET
+
+I would like to encourage 
+@Sourav @Archit @Frida @Carlo David @Vebby @EPR @Labiba @Ivy @K.S. @Sankalp Dayal @Rishi S Rao @Shubhendu Mishra @THIYAGARAJAN R @Ateniola Oluwatobi Victor @Akshay Rajmohan @Aniket Thomas @Kapil Chandorikar @Raunak Sarada @Ishan Arora @Akshay Rajmohan @Anshu Trivedi
