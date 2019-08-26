@@ -314,3 +314,11 @@ I encourage @Archit @Sourav @Frida @Labiba @EPR @Ivy @Carlo David @Sankalp Dayal
 
 I would like to encourage 
 @Sourav @Frida @Carlo David @Labiba @EPR @Ivy @K.S. @THIYAGARAJAN R @Sankalp Dayal @Vebby @Shubhendu Mishra @Rishi S Rao @Ateniola Oluwatobi Victor @Kapil Chandorikar @Akshay Rajmohan @Ishan Arora @Sumanyu Rosha
+
+**#Day45** of #60daysofudacity 
+1. Continued with CNN and did handson exercises on mnist dataset
+2. Reading about the **WaveNet Model built using CNN**
+3. reading paper and code snippets for **CNNs for Text Classification**
+4. watched How to keep focused and improving by siraj raval. and the steps which uses AI to get the In detail sleep monitoring with the sleep stages, and AI on track of fitness and some more and many Blown my mind. 
+
+I would encourage @Anshu Trivedi @Ankit Vashisht @Sourav @Frida @Carlo David @Archit @Labiba @Sankalp Dayal @EPR @Ivy @K.S. @THIYAGARAJAN R @Vebby @Shubhendu Mishra @Rishi S Rao @Ateniola Oluwatobi Victor @Akshay Rajmohan @Kapil Chandorikar @Aniket Thomas @Raunak Sarada @Alexander Villasoto @Droid @Abhishek Tandon @Ahmed Thabit @AISHWARYA NEVREKAR @Agata [OR, USA] @Akshay Pal @Bharati Subramanian @Helena Barmer @Noom Chanthadit @Daniel @Ellyana Linden
